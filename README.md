@@ -2,7 +2,7 @@
 Unemployment is measured by the unemployment rate which is the number of people who are unemployed as a percentage of the total labour force.
 Here is a sample README file for an unemployment analysis project using python and machine learning:
 
-##Unemployment Analysis
+## Unemployment Analysis
 
 This project uses Python and Machine Learning to analyze unemployment data and make predictions about future trends.
 
